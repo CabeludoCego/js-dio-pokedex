@@ -35,7 +35,7 @@
 }
 
 .flying {
-    background-color: #a98ff0;
+    background-color: #a994e4;
 }
 
 .poison {
@@ -51,7 +51,7 @@
 }
 
 .dark {
-    background-color: #725847;
+    background-color: #48382d;
 }
 
 .rock {
@@ -67,7 +67,7 @@
 }
 
 .steel {
-    background-color: #b9b7cf;
+    background-color: #b9b7cfc5;
 }
 
 .dragon {
@@ -113,12 +113,12 @@
 }
 
 .pokemon .detail .types .type {
-    color: #fff;
+    /* color: #fff; */
     padding: .25rem .5rem;
     margin: .25rem 0;
     font-size: .625rem;
     border-radius: 1rem;
-    filter: brightness(1.1);
+    filter: brightness(1.25);
     text-align: center;
 }
 
