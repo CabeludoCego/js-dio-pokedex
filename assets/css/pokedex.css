@@ -163,3 +163,17 @@
         grid-template-columns: 1fr 1fr 1fr 1fr;
     }
 }
+
+.pokemon .popup-btn {
+    padding: .25rem .25rem;
+    margin: .25rem 0;
+    font-size: .8rem;
+    border-radius: .5rem;
+    text-align: center;
+    
+    width: 50%;
+    display: flex;
+    align-self: center;
+    justify-content: center;
+}
+
